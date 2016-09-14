@@ -1,7 +1,9 @@
 # password-generator
 
 This is my Bash Password Generator. Capable of generating passwords in an Apple Keychain like manner, providing
-    a result similar to ***-***-***-*** - whilst substituting similar looking characters for lesser.
+    a result similar to ###-###-###-### - whilst substituting similar looking characters for lesser.
+    
+    Note: # = Upper, Lower, Number, or Special character.
 
     The result is a reliable, and secure, password generator.
 
